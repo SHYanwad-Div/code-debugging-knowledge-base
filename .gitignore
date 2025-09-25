@@ -11,3 +11,18 @@ dist/
 # DB / OS
 *.db
 .DS_Store
+# Ignore SQLite database
+backend/issues.db
+# Backend
+backend/issues.db
+backend/__pycache__/
+
+# Python virtual env
+backend/venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
