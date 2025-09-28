@@ -53,3 +53,11 @@ See the Day 1 log in the Word doc.
    cd backend
    .\venv\Scripts\activate
    python app.py
+## 25 sept -- git basics & branches (Day 3)
+## tasks completed
+1. **Git Basics**
+   - Initialized a Git repository using `git init`.
+   - Learned to stage changes with `git add` and commit using `git commit`.
+   - Checked repository status with `git status` and viewed commit history using `git log`.
+   - Practiced organizing project files and tracking daily work using Git.
+   
